@@ -1,11 +1,19 @@
-# ✨ Super Tic Tac Toe ✨
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=550&lines=Welcome+to+Super+Tic+Tac+Toe;A+Cosmic+Twist+on+a+Classic+Game;Challenge+the+AI+and+Conquer+the+Board!)
+
+</div>
 
 Welcome to the cosmic arena of Super Tic Tac Toe! This is not just an ordinary game of Tic Tac Toe. Every move you make unlocks a new dimension of strategy on a much larger game board. With a dynamic starfield background and a futuristic *glassmorphism* interface, get ready for a stunning gaming experience.
 
 <br>
 
+<div align="center">
+    
 ![Super Tic Tac Toe Gameplay Animation](https://raw.githubusercontent.com/user/repo/main/gameplay.gif)
 *(Note: Replace the link above with a GIF of your gameplay for a more dynamic preview. You can upload the GIF to your GitHub repository.)*
+
+</div>
 
 <br>
 
