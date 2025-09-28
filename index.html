@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Super Tic Tac Toe</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <canvas id="bgCanvas"></canvas>
+
+    <div class="ui">
+      <div class="panel">
+        <header>
+          <h1>Super Tic Tac Toe</h1>
+          <p class="small">Hello!!! Enjoy</p>
+        </header>
+
+        <div class="controls">
+          <button class="btn" id="restartBtn">🔄 Restart</button>
+          <button class="btn secondary" id="aiBtn">
+            🤖 BOT: <span id="aiState">Off</span>
+          </button>
+        </div>
+
+        <div class="turn">
+          <div class="token x" id="turnToken"></div>
+          <div class="small">
+            Player's turn: <strong id="turnText"></strong>
+          </div>
+        </div>
+
+        <div class="legend">
+          <div class="dot"></div>
+          <div class="small">v 1.0</div>
+        </div>
+
+        <p class="small" style="margin-top: 14px; color: var(--muted)">
+          Click a cell on the small board to play. If the small board is full or
+          there is a winner, the board is locked.
+        </p>
+
+        <div
+          style="margin-top: 14px; display: flex; gap: 8px; align-items: center"
+        >
+          <div class="small">Design By Haerul • 2025</div>
+        </div>
+      </div>
+
+      <div class="board-wrap">
+        <div class="super-board" id="superBoard"></div>
+        <canvas class="lineCanvas" id="lineCanvas"></canvas>
+      </div>
+    </div>
+
+    <div id="bannerRoot"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
