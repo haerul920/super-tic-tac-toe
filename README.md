@@ -1,67 +1,67 @@
 # ✨ Super Tic Tac Toe ✨
 
-Selamat datang di arena kosmik Super Tic Tac Toe! Ini bukan sekadar permainan Tic Tac Toe biasa. Setiap langkahmu akan membuka dimensi strategi baru dalam sebuah papan permainan yang lebih besar. Dengan latar belakang bintang yang dinamis dan antarmuka *glassmorphism* yang futuristik, bersiaplah untuk pengalaman bermain yang memukau.
+Welcome to the cosmic arena of Super Tic Tac Toe! This is not just an ordinary game of Tic Tac Toe. Every move you make unlocks a new dimension of strategy on a much larger game board. With a dynamic starfield background and a futuristic *glassmorphism* interface, get ready for a stunning gaming experience.
 
 <br>
 
-![Animasi Gameplay Super Tic Tac Toe](https://raw.githubusercontent.com/user/repo/main/gameplay.gif)
-*(Catatan: Ganti link di atas dengan link GIF gameplay Anda untuk tampilan yang lebih hidup. Anda bisa upload GIF ke repositori GitHub Anda)*
+![Super Tic Tac Toe Gameplay Animation](https://raw.githubusercontent.com/user/repo/main/gameplay.gif)
+*(Note: Replace the link above with a GIF of your gameplay for a more dynamic preview. You can upload the GIF to your GitHub repository.)*
 
 <br>
 
 ---
 
-## 🚀 Fitur Unggulan
+## 🚀 Features
 
--   **🌌 Latar Belakang Interaktif**: Jelajahi angkasa dengan latar belakang bintang, konstelasi, dan meteor yang di-generate secara acak setiap kali Anda bermain.
--   **🤖 Lawan Bot (AI)**: Tantang diri Anda bermain melawan Bot. Aktifkan atau nonaktifkan kapan saja dengan satu klik.
--   **룰 Aturan Super Tic Tac Toe**: Rasakan kompleksitas di mana setiap gerakan kecilmu menentukan papan besar mana yang akan dimainkan selanjutnya.
--   **✨ Efek Visual Modern**: Dirancang dengan efek *glassmorphism*, cahaya neon, dan animasi yang halus untuk setiap aksi, kemenangan, dan giliran pemain.
--   **📱 Desain Responsif**: Bermain dengan nyaman di desktop maupun perangkat mobile. Tampilan akan menyesuaikan secara otomatis.
-
----
-
-## 🎮 Cara Bermain
-
-Aturannya sederhana, namun strateginya mendalam.
-
-1.  **Tujuan Utama**: Menangkan **3 papan kecil** dalam satu baris (horizontal, vertikal, atau diagonal) di papan utama untuk menjadi pemenang.
-2.  **Aturan Kunci**: Langkah yang kamu ambil di sebuah kotak pada papan kecil **menentukan** di papan kecil mana lawanmu harus bermain selanjutnya.
-    -   *Contoh*: Jika kamu bermain di **kotak kanan atas** pada papan kecil, maka lawanmu harus bermain di **papan kecil kanan atas**.
-3.  **Papan Bebas**: Jika papan kecil yang dituju sudah dimenangkan atau penuh, lawanmu bebas memilih papan kecil mana saja yang masih terbuka untuk dimainkan.
-
-![Tampilan Gameplay Super Tic Tac Toe](https://raw.githubusercontent.com/user/repo/main/screenshot.png)
-*(Ganti link di atas dengan screenshot gameplay Anda)*
+-   **🌌 Interactive Background**: Explore space with a randomly generated background of stars, constellations, and meteors every time you play.
+-   **🤖 Bot Opponent (AI)**: Challenge yourself against a Bot. Toggle it on or off anytime with a single click.
+-   **룰 Super Tic Tac Toe Rules**: Experience the complexity where your move on a small board dictates the next board to be played.
+-   **✨ Modern Visual Effects**: Designed with *glassmorphism*, neon glows, and smooth animations for every action, win, and player turn.
+-   **📱 Responsive Design**: Play comfortably on both desktop and mobile devices. The layout adapts automatically.
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## 🎮 How to Play
 
-Proyek ini dibangun murni dengan teknologi fundamental web, tanpa *framework* eksternal.
+The rules are simple, but the strategy is deep.
 
--   **HTML5**: Untuk struktur konten yang semantik.
--   **CSS3**: Untuk desain visual, *glassmorphism*, animasi, dan tata letak yang responsif.
--   **JavaScript (Vanilla)**: Untuk semua logika permainan, interaksi DOM, dan rendering animasi pada `<canvas>`.
+1.  **Main Goal**: Win **3 small boards** in a row (horizontally, vertically, or diagonally) on the main board to be the winner.
+2.  **The Key Rule**: The square you play in on a small board **determines** which small board your opponent must play on next.
+    -   *Example*: If you play in the **top-right square** of a small board, your opponent must then play on the **top-right small board**.
+3.  **Free Board**: If the target small board has already been won or is full, your opponent is free to play on any open small board.
+
+![Super Tic Tac Toe Gameplay Screenshot](https://raw.githubusercontent.com/user/repo/main/screenshot.png)
+*(Replace the link above with a screenshot of your gameplay.)*
 
 ---
 
-## 💻 Menjalankan Proyek
+## 🛠️ Tech Stack
 
-Tidak perlu instalasi yang rumit. Cukup ikuti langkah berikut:
+This project was built purely with fundamental web technologies, without any external frameworks.
 
-1.  **Clone repositori ini**:
+-   **HTML5**: For the semantic content structure.
+-   **CSS3**: For the visual design, *glassmorphism*, animations, and responsive layout.
+-   **JavaScript (Vanilla)**: For all the game logic, DOM interaction, and `<canvas>` animation rendering.
+
+---
+
+## 💻 Running the Project
+
+No complex installation is needed. Just follow these steps:
+
+1.  **Clone this repository**:
     ```bash
     git clone [https://github.com/username/repo-name.git](https://github.com/username/repo-name.git)
     ```
-2.  **Buka direktori proyek**:
+2.  **Navigate to the project directory**:
     ```bash
     cd repo-name
     ```
-3.  **Buka file `index.html`**:
-    Langsung buka file `index.html` di browser favorit Anda. Selesai!
+3.  **Open the `index.html` file**:
+    Simply open the `index.html` file in your favorite browser. Done!
 
 ---
 
-## 👨‍🚀 Kredit
+## 👨‍🚀 Credits
 
-Didesain dan dikembangkan dengan penuh semangat oleh **Haerul** • 2025.
+Designed and developed with passion by **Haerul** • 2025.
