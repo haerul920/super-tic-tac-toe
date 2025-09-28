@@ -10,8 +10,7 @@ Welcome to the cosmic arena of Super Tic Tac Toe! This is not just an ordinary g
 
 <div align="center">
     
-![Super Tic Tac Toe Gameplay Animation](https://drive.google.com/uc?export=view&id=1Un6RztPCnxYGT3Lg-aDwEoHVsygF0NdE)
-*(Note: Replace the link above with a GIF of your gameplay for a more dynamic preview. You can upload the GIF to your GitHub repository.)*
+![Super Tic Tac Toe Gameplay](https://drive.google.com/uc?export=view&id=1Un6RztPCnxYGT3Lg-aDwEoHVsygF0NdE)
 
 </div>
 
@@ -37,9 +36,6 @@ The rules are simple, but the strategy is deep.
 2.  **The Key Rule**: The square you play in on a small board **determines** which small board your opponent must play on next.
     -   *Example*: If you play in the **top-right square** of a small board, your opponent must then play on the **top-right small board**.
 3.  **Free Board**: If the target small board has already been won or is full, your opponent is free to play on any open small board.
-
-![Super Tic Tac Toe Gameplay Screenshot](https://raw.githubusercontent.com/user/repo/main/screenshot.png)
-*(Replace the link above with a screenshot of your gameplay.)*
 
 ---
 
